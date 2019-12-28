@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas Localization</string>
+    <string name="tentang">Tantang</string>
+    <string name="isi">Khafidh marupakan mahasiswa nang sadang mangikuti mata kuliah Mobile Programming. Ngini Marupakan dasain propil ampun Android</string>
+    <string name="appreciations">Apresiasi</string>
+    <string name="follow">Umpati</string>
+    <string name="Followers">Pangikut</string>
+    <string name="Following">Maumpati</string>
+</resources>

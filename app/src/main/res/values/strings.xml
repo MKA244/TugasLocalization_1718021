@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tugas Localization</string>
+    <string name="tentang">Tentang</string>
+    <string name="isi">Khafidh merupakan mahasiswa yang sedang mengikuti mata kuliah Mobile Programming. Ini Merupakan desain profil pada Android</string>
+    <string name="appreciations">Appreciations</string>
+    <string name="follow">Follow</string>
+    <string name="Followers">Followers</string>
+    <string name="Following">Following</string>
+</resources>
